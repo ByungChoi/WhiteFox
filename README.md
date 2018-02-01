@@ -1,5 +1,5 @@
 
-[layout image][layout_image]
+![layout image][layout_image]
 
 Following Instruction is from [github.com/kiibohd/wiki][firmware_instruction]
 
