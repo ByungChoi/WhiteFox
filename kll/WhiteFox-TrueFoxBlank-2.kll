@@ -1,0 +1,22 @@
+Name = "WhiteFox";
+Variant = "truefox";
+Layout = "TrueFoxBlank";
+Base = "TheTrueFoxBase";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2016-05-30";
+Generator = "KIICONF 0.2";
+
+#U"BACKSPACE" : #:ledControl( 4, 255 );
+U"BACKTICK" : ledControl( 5, 0, 0);
+U"DELETE" : U"INSERT";
+U"PAGEUP" : U"HOME";
+U"UP" : CONS"VOLUMEUP";
+U"PAGEDOWN" : U"END";
+U"LEFT" : CONS"REWIND";
+U"DOWN" : CONS"VOLUMEDOWN";
+U"RIGHT" : CONS"FASTFORWARD";
+
+
+
